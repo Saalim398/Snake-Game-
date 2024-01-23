@@ -11,6 +11,7 @@ git clone https://github.com/Saalim398/Snake-Game-.git
 ```
 3. Run the game by typing:
 ```
+cd Snake-Game-
 main
 ```
 ## Instruction
