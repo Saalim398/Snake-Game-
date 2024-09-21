@@ -141,7 +141,7 @@ int main()
     
         while (!gameover)
         {
-        
+            //logic for my board
             input();
             board();
             logic();
